@@ -1,0 +1,17 @@
+{
+    "name": "alastair/phpractice",
+    "type": "project",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alastair Poole",
+            "email": "netstar@gmail.com"
+        }
+    ],
+    "require": {}
+}
